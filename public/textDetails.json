@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Reclutamiento y Selección",
+    "desc": [
+      "Propuesta de una terna de candidatos: Determinada por la necesidad del puesto a cubrir según el cliente. Contara con al menos 3 recursos según las habilidades excluyentes requeridas para cubrir la vacante laboral.",
+      "Reclutamiento y selección de postulantes: Seguimiento del proceso de búsqueda laboral, presentación de candidatos y selección del recurso idóneo para trabajar en la organización que requiera de nuestra asesoría.",
+      "Reclutamiento y selección de postulantes con pago diferido: Seguimiento del proceso de búsqueda laboral, presentación de candidatos y selección del recurso idóneo para trabajar en la organización que requiera de nuestra asesoría. Pago a realizar después de que el trabajador supere el periodo de prueba."
+    ],
+    "button": "Carga tu CV"
+  },
+  {
+    "titulo": "Diagnostico Organizacional",
+    "desc": [
+      "Intervención 360  ° para detectar problemáticas que impiden el conseguimiento de los objetivos actuales, minimizar debilidades y desarrollar las potencialidades de una organización."
+    ],
+    "button": "Contacto"
+  },
+  {
+    "titulo": "Cursos de Capacitación",
+    "desc": [
+      "Criterios de formación y movilización constante de los trabajadores para el desempeño de las tareas, funciones y responsabilidades. Además de establecer criterios de desarrollo de Recursos Humanos y construcción de planes de carrera.Todo aquello implica la necesidad de planificar, ejecutar, evaluar y contralar todos los procesos pertinentes, con el fin de ir logrando de manera sistemática una mejora continua en los trabajadores."
+    ],
+    "button": "Contacto"
+  },
+  {
+    "titulo": "Evaluación de desempeño",
+    "desc": [
+      "Desarrollo del manual de puestos organizacional con el objetivo ultimo de brindar a la organización estándares de desempeño cuantitativos y cualitativos de los indicadores para un correcto desenvolvimiento de las personas en sus tareas. Asistencia en los mecanismos de evaluación de desempeño propiamente dicha."
+    ],
+    "button": "Contacto"
+  }
+]
