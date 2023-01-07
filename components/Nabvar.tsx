@@ -1,15 +1,14 @@
 import Link from "next/link";
-import { useState } from "react";
 
 export default function Navbar() {
-  const [modal, setModal] = useState(false);
   return (
     <nav className="fixed min-w-full z-50 bg-black">
       <ul className="font-work font-bold p-2 flex justify-around items-center">
+        <Link href={"/"}>
+          <li className="navbar_item">INICIO</li>
+        </Link>
         <Link href={"/areas"}>
-          <li onClick={() => setModal(!modal)} className="navbar_item relative">
-            ÁREAS
-          </li>
+          <li className="navbar_item">ÁREAS</li>
         </Link>
         <Link href={"/Contacto"}>
           <li className="navbar_item">CONTACTO</li>

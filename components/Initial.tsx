@@ -2,7 +2,7 @@ import ButtonArea from "./ButtonArea";
 
 export default function Initial() {
   return (
-    <div className="relative min-h-[60vh] md:min-h-[100vh] w-[90%] lg:w-[50%] mx-auto py-20 md:py-0 flex justify-center items-center">
+    <div className="relative min-h-[100vh] w-[90%] lg:w-[50%] mx-auto py-20 md:py-0 flex justify-center items-center">
       <div>
         <svg
           className="md:scale-[2] lg:scale-[3]"
